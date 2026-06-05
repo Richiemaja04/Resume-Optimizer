@@ -2,6 +2,13 @@
 
 > Beat the ATS. Land the interview. Built with FastAPI + OpenAI + spaCy + SentenceTransformers.
 
+<img width="1901" height="977" alt="image" src="https://github.com/user-attachments/assets/79bcb0bd-0f35-43ca-a2bd-4a04ae7b5061" />
+
+<img width="1894" height="978" alt="image" src="https://github.com/user-attachments/assets/d85ec266-9aa2-4f77-986c-c949c440c0c2" />
+
+<img width="1899" height="979" alt="image" src="https://github.com/user-attachments/assets/d156515b-31dd-4bba-96eb-3f3057c89cae" />
+
+
 ---
 
 ## 🏗 Project Structure
